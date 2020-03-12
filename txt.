@@ -1,0 +1,10 @@
+const width = canvas.width = window.innerwidth
+
+Моделирование шарика
+
+func ball(x y velY velX color)
+this.x = x
+this.y = y
+this.velX = velX
+this.velY = velYthis.color = color
+this.size = size
